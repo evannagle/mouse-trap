@@ -21,6 +21,9 @@ Note that s- commands denote a command key prefix. So, for example, `s-G` transl
 
 ### The Interwebs
 
-### Google
+### Google Chrome
+
+- `s-d` :arrow_right: bookmark page
+- `s-D` :arrow_right: bookmark all tabs (why, though?)
 
 - [Web Search Navigator](https://github.com/infokiller/web-search-navigator) --> click Google search results using vim-like key bindings.
