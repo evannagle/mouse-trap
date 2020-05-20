@@ -6,11 +6,20 @@ I'm throwing away my mouse. I don't know why. It just seems like the kind of con
 
 Note that s- commands denote a command key prefix. So, for example, `s-G` translates to `COMMAND-SHIFT-G`
 
+## Some Idioms
+
+- `s-[` means go back a step 
+- `s-]` means go forward a step
+
 ### MacOs Finder
 
 * `s-G` Go to a folder
 
-## The Interwebs
+### Alfred
+
+### Karabiner
+
+### The Interwebs
 
 ### Google
 
