@@ -27,3 +27,8 @@ Note that s- commands denote a command key prefix. So, for example, `s-G` transl
 - `s-D` :arrow_right: bookmark all tabs (why, though?)
 
 - [Web Search Navigator](https://github.com/infokiller/web-search-navigator) --> click Google search results using vim-like key bindings.
+
+### Apple Mail (By Force)
+
+- [Lifewire List](https://www.lifewire.com/apple-mail-keyboard-shortcuts-2260755)
+- `s-D` :arrow_right: send mail
