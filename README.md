@@ -8,12 +8,12 @@ Note that s- commands denote a command key prefix. So, for example, `s-G` transl
 
 ## Some Idioms
 
-- `s-[` means go back a step 
-- `s-]` means go forward a step
+- `s-[` --> go back a step 
+- `s-]` --> go forward a step
 
 ### MacOs Finder
 
-* `s-G` Go to a folder
+- `s-G` --> to a folder
 
 ### Alfred
 
@@ -23,4 +23,4 @@ Note that s- commands denote a command key prefix. So, for example, `s-G` transl
 
 ### Google
 
-* [Web Search Navigator](https://github.com/infokiller/web-search-navigator) - click on search result links using vim-like key bindings.
+- [Web Search Navigator](https://github.com/infokiller/web-search-navigator) --> click Google search results using vim-like key bindings.
