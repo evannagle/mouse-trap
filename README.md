@@ -8,12 +8,12 @@ Note that s- commands denote a command key prefix. So, for example, `s-G` transl
 
 ## Some Idioms
 
-- `s-[` --> go back a step 
-- `s-]` --> go forward a step
+- `s-[` :arrow_right: go back a step 
+- `s-]` :arrow_right: go forward a step
 
 ### MacOs Finder
 
-- `s-G` --> to a folder
+- `s-G` :arrow_right: to a folder
 
 ### Alfred
 
